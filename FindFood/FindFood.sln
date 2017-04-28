@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindFood", "Assembly-CSharp.csproj", "{1410A6DB-3C18-8A2F-1EB4-BFEE92C692C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindFood", "Assembly-CSharp-Editor.csproj", "{216385AF-1EC6-BEA4-EA8D-2521061061B1}"
+EndProject
+Project("{ABD9A368-6A56-0E44-2C38-0E6DEA5EB8BE}") = "FindFood", "Assembly-UnityScript-Editor-firstpass.unityproj", "{BE22E26F-9727-CCC6-BF9C-6C908D22D4EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1410A6DB-3C18-8A2F-1EB4-BFEE92C692C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1410A6DB-3C18-8A2F-1EB4-BFEE92C692C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1410A6DB-3C18-8A2F-1EB4-BFEE92C692C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1410A6DB-3C18-8A2F-1EB4-BFEE92C692C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{216385AF-1EC6-BEA4-EA8D-2521061061B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{216385AF-1EC6-BEA4-EA8D-2521061061B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{216385AF-1EC6-BEA4-EA8D-2521061061B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{216385AF-1EC6-BEA4-EA8D-2521061061B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE22E26F-9727-CCC6-BF9C-6C908D22D4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE22E26F-9727-CCC6-BF9C-6C908D22D4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE22E26F-9727-CCC6-BF9C-6C908D22D4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE22E26F-9727-CCC6-BF9C-6C908D22D4EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

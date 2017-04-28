@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/FindFood_ARTest1.unity
+  isLoaded: 1
+  isActive: 1
